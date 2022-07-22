@@ -1,0 +1,23 @@
+
+.logo-nombre{
+max-width: 200px;
+padding: 2rem;
+}
+
+.acerca-de-mi{
+font-weight: 700;
+}
+
+.creditos{
+text-decoration: none;
+}
+
+$primary: #FFC300;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+$font-family-base: 'Syne', sans-serif;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";

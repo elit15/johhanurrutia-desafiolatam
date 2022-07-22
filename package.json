@@ -1,0 +1,23 @@
+{
+  "name": "johhan-urrutia-pdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohhanUrrutia/johhanurrutia-desafiolatam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohhanUrrutia/johhanurrutia-desafiolatam/issues"
+  },
+  "homepage": "https://github.com/JohhanUrrutia/johhanurrutia-desafiolatam#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
